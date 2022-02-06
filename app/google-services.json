@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73657793244",
+    "project_id": "videomate-362c6",
+    "storage_bucket": "videomate-362c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73657793244:android:c30bf5aa29cb0ac2f49219",
+        "android_client_info": {
+          "package_name": "com.project.videomate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73657793244-cfcbrsg2eqeum5q5npj0osin9p8lsgkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.videomate",
+            "certificate_hash": "99da44f6b03dd55f1d01956418bd8b4115e559cf"
+          }
+        },
+        {
+          "client_id": "73657793244-9e8vb6eks0fiutr1a9fc4f4oeo89c9j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8zxkJXAsNHYTxP9bvMQlaQ71oEa7XE7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73657793244-9e8vb6eks0fiutr1a9fc4f4oeo89c9j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
